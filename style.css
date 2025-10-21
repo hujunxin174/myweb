@@ -75,7 +75,7 @@ body {
 
 /* 封面页样式 */
 #cover-page {
-    background: url("photo/a294c78101f6620799a0086e1be13576.png") no-repeat center center;
+    background: url("/wyweb/a294c78101f6620799a0086e1be13576.png") no-repeat center center;
     background-size: cover;
     position: relative;
 }
@@ -465,4 +465,5 @@ body {
 .option-btn, .instruction-item span, .dimension-name {
     word-wrap: break-word;
     overflow-wrap: break-word;
+
 }
